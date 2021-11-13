@@ -9,6 +9,4 @@ Releases : https://github.com/babahamed/Wisp-GUI-Demo-Apps/releases
 
 Apps currently available for download :
 
-WispGUI Demo App (For 32 and 64 Bit systems)
-
-FrontWisp (For 32 and 64 Bit systems)
+WispGUI 1.0.3 Demo App
